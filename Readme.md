@@ -1,0 +1,1 @@
+This script demonstrates an algorithm to generate well-selected hotkeys for a given list of menu options.
